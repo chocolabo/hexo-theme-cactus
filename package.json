@@ -7,7 +7,6 @@
     "lint": "gulp lint --silent",
     "test": "gulp validate --silent",
     "clean": "stylus-supremacy format source/css/**/*.styl --options .stylintrc -r"
-    "build": "hexo generate"
   },
   "repository": {
     "type": "git",
